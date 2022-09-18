@@ -1,1 +1,1 @@
-# currency-converter
+Тестовое задание для компании Digital Security
